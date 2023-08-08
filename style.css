@@ -83,11 +83,11 @@ body{
 }
 @media(max-width:600px)
 {
-    .weather-icons{
-        width:100%;
-        float:none;
-    }
+    .card{
+            width:100%;
+        }
     body{
         width:100%;
         float:none;
-    }       }             
+       }       
+}             
