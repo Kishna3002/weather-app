@@ -21,6 +21,7 @@ body{
 .background{
     background-size: cover;
   background-repeat: no-repeat;
+   justify-content:center;
   background-position: center;
 }
 
@@ -99,9 +100,5 @@ body{
         float:none;
         }
     
-    body{
-            width:100%;
-        float:none;
-    height:100%;
-        }
+  
 }          
