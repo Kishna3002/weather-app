@@ -1,10 +1,10 @@
 body{
-   /**
+
     background-image: url('background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    **/
+   
     margin:0px;
     padding:0px;
 }
@@ -17,13 +17,7 @@ body{
     padding: 40px 35px;
     text-align: center;
 
-}
-.background{
-    background-size: cover;
-  background-repeat: no-repeat;
-   justify-content:center;
-  background-position: center;
-}
+
 
 .search
 {
