@@ -1,8 +1,12 @@
 body{
+   /**
     background-image: url('background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    **/
+    margin:0px;
+    padding:0px;
 }
 .card{
     width: 60%;
@@ -14,6 +18,12 @@ body{
     text-align: center;
 
 }
+.background{
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 .search
 {
     width: 100%;
