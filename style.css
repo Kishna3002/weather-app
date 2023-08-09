@@ -82,17 +82,5 @@ body{
 }
 .humidity,.wind{
     font-size:20px;
-    margin-top: -6px;
+    margin-top: 6px;
 }
-/**@media(max-width:600px)
-{
-    .card,.weather{
-            width:100%;
-        float:none;
-        }
-    body{
-          width:100%;
-        float:none;
-    }
-  
-}          **/
