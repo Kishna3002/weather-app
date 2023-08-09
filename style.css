@@ -84,7 +84,7 @@ body{
     font-size:20px;
     margin-top: -6px;
 }
-@media(max-width:600px)
+/**@media(max-width:600px)
 {
     .card,.weather{
             width:100%;
@@ -95,4 +95,4 @@ body{
         float:none;
     }
   
-}          
+}          **/
